@@ -9,4 +9,4 @@
 * When online you get notifications for new messages on channels that you are not currently seeing.
 
 
-### Deployment Link https://slack-react-clone-c53ff.web.app/login
+### Deployment Link https://slack-react-clone-c53ff.web.app
