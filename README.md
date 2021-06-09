@@ -3,6 +3,8 @@
 * This project aims to mimic the frontend and a few functionalities of the famous chat app **Slack**
 * It has public channels as well private channels in which one can send text as well as images.
 * Authentication, database and the deployment is handled by **Firebase**
+* You can create new public channels
+* There is also a functionality to search messages or users in a channel.
 * The app has the functionality to star public channels
 * It has a Metal Panel where the information of the channel creator and top posters is displayed
 * There is also a functionality to see if a user is online or offline. 
